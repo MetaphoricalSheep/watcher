@@ -1,6 +1,6 @@
 #watcher
 
-A simple app that will check execute a file whenever it detects a change
+A simple tool that will execute a file whenever it detects a change
 
 ##usage
 ```bash
